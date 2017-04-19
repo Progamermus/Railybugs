@@ -106,7 +106,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         
         if let touchedNode = scene?.atPoint(point),
             touchedNode.name == "bluebug" {
-            print("hanens")
+            print("hannes")
             touchBool = true;
             splinePoints.removeAll()
             activeDrawingLine?.removeFromParent()
