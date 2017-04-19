@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0133EE3B850FD3D87281547FFC0F1615E2392C44" : 9223372036854775807,
+    "E7C95E40F9043EE3D76641AC6FABA9F1C9775DAB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2AA5EE33-6929-4990-811C-3748C24BE519",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0133EE3B850FD3D87281547FFC0F1615E2392C44" : "..",
+    "E7C95E40F9043EE3D76641AC6FABA9F1C9775DAB" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Railybugs",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Railybugs.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Progamermus\/Railybugs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0133EE3B850FD3D87281547FFC0F1615E2392C44"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Progamermus\/Railybugs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E7C95E40F9043EE3D76641AC6FABA9F1C9775DAB"
+    }
+  ]
+}
